@@ -6,3 +6,6 @@
 
 ## http
 - [qs.js - 更好的处理url参数](https://github.com/some-code/notes/issues/3)
+
+## devops
+- [husky -- 让git hooks更简单的包包](https://github.com/some-code/notes/issues/4)
