@@ -9,4 +9,4 @@
 - [axios封装（一）基础配置](https://github.com/some-code/notes/issues/5)
 
 ## devops
-- [husky -- 让git hooks更简单的包包](https://github.com/some-code/notes/issues/4)
+- [[git hooks] pre-commit 配置](https://github.com/some-code/notes/issues/4)
