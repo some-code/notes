@@ -11,6 +11,7 @@
 
 ## devops
 - [[git hooks] pre-commit 配置](https://github.com/some-code/notes/issues/4)
+- [使用nginx部署静态网站] (https://github.com/some-code/notes/issues/11)
 
 ## Vue
 - [vue组件--TagsInput](https://github.com/some-code/notes/issues/7)
@@ -19,3 +20,4 @@
 
 ## react
 - [react-native初体验(1) — hello world](https://github.com/some-code/notes/issues/9)
+- [react-native初体验(2) — 认识路由](https://github.com/some-code/notes/issues/10)
