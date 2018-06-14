@@ -21,3 +21,6 @@
 ## react
 - [react-native初体验(1) — hello world](https://github.com/some-code/notes/issues/9)
 - [react-native初体验(2) — 认识路由](https://github.com/some-code/notes/issues/10)
+
+## app
+[小程序体积优化(1)--优化大文本](https://github.com/some-code/notes/issues/13)
