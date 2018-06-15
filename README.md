@@ -17,6 +17,7 @@
 - [vue组件--TagsInput](https://github.com/some-code/notes/issues/7)
 - [vue组件--通讯录](https://github.com/some-code/notes/issues/8)
 - [Vue2.0原理-模板解析](https://github.com/some-code/notes/issues/12)
+- [Vue2.0原理-指令](https://github.com/some-code/notes/issues/15)
 
 ## react
 - [react-native初体验(1) — hello world](https://github.com/some-code/notes/issues/9)
