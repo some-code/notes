@@ -25,3 +25,4 @@
 
 ## app
 [小程序体积优化(1)--优化大文本](https://github.com/some-code/notes/issues/13)
+[小程序体积优化(2)--优化图片](https://github.com/some-code/notes/issues/14)
